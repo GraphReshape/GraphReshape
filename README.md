@@ -1,6 +1,6 @@
 # Graph Structure Reshaping Against Adversarial Attacks on Graph Neural Networks
 
-Code implementation of the paper: Graph Structure Reshaping Against Adversarial Attacks on Graph Neural Networks, which has been submitted to NeurIPS 2020 for blind review.
+Code implementation of the paper: Graph Structure Reshaping Against Adversarial Attacks on Graph Neural Networks, which has been submitted to TKDE for review.
 
 ## Requirements
 * `python 3.6.7`
