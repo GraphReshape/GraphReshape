@@ -1,6 +1,6 @@
 # Graph Structure Reshaping Against Adversarial Attacks on Graph Neural Networks
 
-Code implementation of the paper: Graph Structure Reshaping Against Adversarial Attacks on Graph Neural Networks, which has been accepted by TKDE 2024.
+Code implementation of the paper: [Graph Structure Reshaping Against Adversarial Attacks on Graph Neural Networks](https://ieeexplore.ieee.org/document/10538390), which has been accepted by TKDE 2024.
 
 ## Requirements
 * `python 3.6.7`
